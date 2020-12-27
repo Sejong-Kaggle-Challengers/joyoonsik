@@ -1,4 +1,4 @@
-# Kaggle study _ minnnji
+# Kaggle study _ joyoonsik
 
 | 주차 | 주제 | 결과물 | 데이콘 주소 | 성능 |
 |:---:|:---:|:---:|:---:|:---|
